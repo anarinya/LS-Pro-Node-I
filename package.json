@@ -1,0 +1,22 @@
+{
+  "name": "ls-pro-node-i",
+  "version": "1.0.0",
+  "description": "## Instructions --- 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anarinya/LS-Pro-Node-I.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anarinya/LS-Pro-Node-I/issues"
+  },
+  "homepage": "https://github.com/anarinya/LS-Pro-Node-I#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
